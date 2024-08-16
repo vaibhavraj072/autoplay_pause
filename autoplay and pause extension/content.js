@@ -1,13 +1,21 @@
-chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-    if (message.action === "tabChanged") {
-      const mediaElements = document.querySelectorAll("video, audio");
-      if (message.active) {
-        // Play all media elements when the tab is active
-        mediaElements.forEach(element => element.play());
-      } else {
-        // Pause all media elements when the tab is not active
-        mediaElements.forEach(element => element.pause());
-      }
-    }
-  });
-  
+// Function to pause the video
+function pauseVideo() {
+  const video = document.querySelector('video');
+  if (video && !video.paused) {
+      video.pause();
+      console.log("Video paused due to window blur.");
+  }
+}
+
+// Function to play the video
+function playVideo() {
+  const video = document.querySelector('video');
+  if (video && video.paused) {
+      video.play();
+      console.log("Video resumed due to window focus.");
+  }
+}
+
+// Listen for window focus and blur events
+window.addEventListener('blur', pauseVideo);
+window.addEventListener('focus', playVideo);
