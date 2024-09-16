@@ -1,6 +1,7 @@
 # autoplay_pause
 
-**Auto Play-Pause YouTube Extension**
+##Auto Play-Pause YouTube Extension##
+
 Overview
 The Auto Play-Pause YouTube Extension automatically pauses YouTube videos when you switch tabs or windows and resumes when you return. It's especially useful for developers or learners who follow YouTube tutorials while coding in editors like VS Code. This extension ensures you don't miss a moment, helping streamline your workflow between video learning and hands-on practice.
 
