@@ -2,7 +2,7 @@
   
 # Auto Play-Pause Extension
 
-![Auto Play-Pause Logo](images/logo.png)
+![Auto Play-Pause Logo](icons/icon48.png)
 
 ### Seamlessly Control Your Video Experience
 
@@ -40,33 +40,34 @@ Coming soon!
 
 1. **Get the Code**
    ```bash
-   git clone https://github.com/yourusername/auto-play-pause.git
+   git clone https://github.com/vaibhavraj072/auto-play-pause.git
 2. Install in Chrome
-Open Chrome and navigate to chrome://extensions/
-Enable "Developer mode" in the top-right corner
-Click "Load unpacked"
-Select the Auto Play-Pause folder
+- Open Chrome and navigate to chrome://extensions/
+- Enable "Developer mode" in the top-right corner
+- Click "Load unpacked"
+- Select the Auto Play-Pause folder
 🎯 How to Use
-Install the extension.
-Click the Auto Play-Pause icon in your browser.
-Use the toggle switch to enable or disable the feature.
-Enjoy a smarter YouTube experience! 🎉
+- Install the extension.
+- Click the Auto Play-Pause icon in your browser.
+- Use the toggle switch to enable or disable the feature.
+- Enjoy a smarter YouTube experience! 🎉
 🤝 Contributing
 We welcome contributions from the community! Here's how you can help:
 
 Fork the repo.
-Create a new branch (git checkout -b feature/amazing-feature).
-Make your changes.
-Commit (git commit -m 'Add amazing feature').
-Push (git push origin feature/amazing-feature).
-Open a Pull Request.
+- Create a new branch (git checkout -b feature/amazing-feature).
+- Make your changes.
+- Commit (git commit -m 'Add amazing feature').
+- Push (git push origin feature/amazing-feature).
+- Open a Pull Request.
 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 🌟 Show Your Support
 Give a ⭐️ if this project helps make your life easier!
 
 <div align="center">
-Made with ❤️ by Vaibhav Raj
+**Made with ❤️ by [Vaibhav Raj](https://vaibhavraj072.github.io/portfolio_vaibhav/)**
 
-</div> ```
+
+</div> 
