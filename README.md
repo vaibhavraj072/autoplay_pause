@@ -1,43 +1,72 @@
-# autoplay_pause
+<div align="center">
+  
+# Auto Play-Pause Extension
 
-*Auto Play-Pause YouTube Extension*
+![Auto Play-Pause Logo](images/logo.png)
 
-**Overview**
+### Seamlessly Control Your Video Experience
 
-The Auto Play-Pause YouTube Extension automatically pauses YouTube videos when you switch tabs or windows and resumes when you return. It's especially useful for developers or learners who follow YouTube tutorials while coding in editors like VS Code. This extension ensures you don't miss a moment, helping streamline your workflow between video learning and hands-on practice.
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<!--[![GitHub issues](https://img.shields.io/github/issues/yourusername/auto-play-pause)](.github/ISSUE_TEMPLATE)-->
 
-**Features**
+</div>
 
-Automatic Pause and Play: Pauses the YouTube video when you leave the tab or window and resumes playing when you return.
-Perfect for Developers: Ideal for those learning from YouTube while practicing coding. It enables a seamless experience without having to manually control the video.
-Increased Efficiency: Stay focused on coding while the extension handles video playback for you.
+---
 
-**How it Works**
+## 🚀 Overview
 
-1)Install the extension.
-2)Open a YouTube video.
-3)The video automatically pauses when you switch tabs or windows (e.g., to your code editor).
-4)When you return to the YouTube tab, the video resumes from where it was paused.
+The Auto Play-Pause Extension takes control of your YouTube experience, making it smarter and more intuitive. Automatically pauses videos when you leave the YouTube tab and resumes playback when you return. Ideal for multitaskers and efficiency enthusiasts!
 
-**Why This Extension?**
+## ✨ Key Features
 
-If you learn by watching YouTube tutorials while coding, this extension is essential. It eliminates the need to pause and play videos manually, allowing you to concentrate on what really matters—coding and learning.
+- ⏸️ **Auto Pause**: Automatically pauses YouTube videos when you leave the tab.
+- ▶️ **Auto Play**: Resumes playback seamlessly when you return.
+- 🎛️ **Toggle Control**: Enable or disable the feature with a simple toggle.
+- 🌐 **Works Everywhere**: Designed exclusively for YouTube but highly efficient for all users.
 
-**License**
+## 📺 Perfect For
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this extension as per the terms of the license.
+- Students switching between learning resources 📚
+- Professionals juggling tasks 🖥️
+- Anyone who values an uninterrupted viewing experience 🎥
 
-**Credits**
+## 🛠️ Installation
 
-Big thanks to @ezsnippet for introducing this project and inspiring its development.
+### Method 1: Chrome Web Store
+Coming soon!
 
-**Installation**
+### Method 2: Manual Installation
 
-Download and install the extension.
-Add it to your browser.
-Enjoy an uninterrupted learning experience with automatic video control!
+1. **Get the Code**
+   ```bash
+   git clone https://github.com/yourusername/auto-play-pause.git
+2. Install in Chrome
+Open Chrome and navigate to chrome://extensions/
+Enable "Developer mode" in the top-right corner
+Click "Load unpacked"
+Select the Auto Play-Pause folder
+🎯 How to Use
+Install the extension.
+Click the Auto Play-Pause icon in your browser.
+Use the toggle switch to enable or disable the feature.
+Enjoy a smarter YouTube experience! 🎉
+🤝 Contributing
+We welcome contributions from the community! Here's how you can help:
 
-**Contribution**
+Fork the repo.
+Create a new branch (git checkout -b feature/amazing-feature).
+Make your changes.
+Commit (git commit -m 'Add amazing feature').
+Push (git push origin feature/amazing-feature).
+Open a Pull Request.
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributions are welcome! If you'd like to help improve this extension, feel free to fork the repository, submit pull requests, or raise issues for any bugs or feature requests.
+🌟 Show Your Support
+Give a ⭐️ if this project helps make your life easier!
 
+<div align="center">
+Made with ❤️ by Vaibhav Raj
+
+</div> ```
