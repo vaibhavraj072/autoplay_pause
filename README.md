@@ -40,7 +40,7 @@ Coming soon!
 
 1. **Get the Code**
    ```bash
-   git clone https://github.com/vaibhavraj072/auto-play-pause.git
+   git clone https://github.com/vaibhavraj072/autoplay_pause
 2. Install in Chrome
 - Open Chrome and navigate to chrome://extensions/
 - Enable "Developer mode" in the top-right corner
@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Give a ⭐️ if this project helps make your life easier!
 
 <div align="center">
-**Made with ❤️ by [Vaibhav Raj](https://vaibhavraj072.github.io/portfolio_vaibhav/)**
+**Made with ❤️ by [Vaibhav Raj] (https://vaibhavraj072.github.io/portfolio_vaibhav/)**
 
 
 </div> 
