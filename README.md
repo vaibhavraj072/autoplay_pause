@@ -66,8 +66,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 🌟 Show Your Support
 Give a ⭐️ if this project helps make your life easier!
 
+---
+
 <div align="center">
-**Made with ❤️ by [Vaibhav Raj] (https://vaibhavraj072.github.io/portfolio_vaibhav/)**
+
+**Made with ❤️ by [Vaibhav Raj](https://vaibhavraj072.github.io/portfolio_vaibhav/)**
 
 
 </div> 
