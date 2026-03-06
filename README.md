@@ -70,7 +70,7 @@ Give a ⭐️ if this project helps make your life easier!
 
 <div align="center">
 
-**Made with ❤️ by [Vaibhav Raj](https://vaibhavraj072.github.io/portfolio_vaibhav/)**
+**Made with ❤️ by [Vaibhav Raj](https://vaibhavrajportfolio.vercel.app/)**
 
 
 </div> 
